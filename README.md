@@ -56,6 +56,3 @@ This project demonstrates real-world implementation of Doubly Linked List, Stack
   - windows.h (for sound using Beep)  
 - Console UI with ANSI Colors  
 
----
-
-## 📂 Project Structure
